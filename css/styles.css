@@ -1,0 +1,30 @@
+/* header styles */
+header {
+    width: 1440px;
+    margin: auto;
+    padding: 38px 130px;
+    background-color: #2A9D8F;
+}
+.logoLink {
+    width: 46px;
+    height: 46px;
+    margin-right: 699px;
+}
+.menu, .logoLink  {
+    vertical-align: middle;
+}
+.logoHeader {
+    width: 100%;
+    height: 100%;
+}
+li, .menu, .logoLink {
+    display: inline-block;
+}
+.linkLi {
+    color: #FFFFFF;
+    font-size: 32px;
+    font-family: "Nerko One", cursive;
+}
+.middleLi {
+    margin-inline: 76px;
+}
