@@ -32,7 +32,7 @@ li, .menu, .logoLink {
 .coverSection {
     width: 1440px;
     height: 640px;
-    margin: auto;
+    margin: 0 auto;
 }
 .coverPhoto {
     width: 100%;
@@ -101,3 +101,37 @@ button {
     text-align: justify;
 }
 /* footer styles */
+footer {
+    width: 1440px;
+    background-color: #2A9D8F;
+    margin: 0 auto;
+    padding: 88px 130px;
+}
+.logoLinkFoot, .menuFooter {
+    display: inline-block;
+}
+.menuFooter{
+    margin-left: 930px;
+}
+.menuFooter, .logoFooter {
+    vertical-align: top;
+}
+.liFoot {
+    display: block;
+}
+.title3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.title3, .footLinks{
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+}
+.li2 {
+    margin-block: 8px;
+}
+.footLinks {
+    font-size: 18px;
+    font-weight: 400;
+}
