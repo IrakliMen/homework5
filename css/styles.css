@@ -78,6 +78,7 @@ button {
     background-color: #2A9D8F;
     font-family: "Poppins", sans-serif;
     padding: 11px 11px 11px 16px;
+    border: none;
 }
 /* section2 styles */
 .article2 {
@@ -113,7 +114,7 @@ footer {
 .menuFooter{
     margin-left: 930px;
 }
-.menuFooter, .logoFooter {
+.menuFooter, .logoLinkFoot {
     vertical-align: top;
 }
 .liFoot {
